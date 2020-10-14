@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Test 1",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Test 2",
+      "description": "It's lit!",
+      "id": 2
+    },
+    {
+      "title": "User auth",
+      "description": "turn up!!!!!",
+      "userId": "105066804244810511164",
+      "id": 4
+    },
+    {
+      "title": "Component Reuse",
+      "description": "Refactoring",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+react project to refresh memory on react/redux
